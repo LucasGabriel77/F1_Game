@@ -11,3 +11,14 @@ let ec3 = new Estrada(246, 310, 10, 80, "white")
 let ec4 = new Estrada(246, 450, 10, 80, "white")
 let ec5 = new Estrada(246, 590, 10, 80, "white")
 let ec6 = new Estrada(246, 780, 10, 80, "white")
+
+let t1 = new Text();
+let t2 = new Text();
+let t3 = new Text();
+let t4 = new Text();
+let t5 = new Text();
+
+
+
+
+
