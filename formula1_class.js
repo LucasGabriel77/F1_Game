@@ -8,8 +8,18 @@ class Obj{
     }
 
     des_obj(){
-        
+
     }
         
     
+}
+
+class Carro extends Obj{
+    dir = 0
+    pts = 0
+    vida = 0
+    
+    des_carro(){
+        
+    }
 }
